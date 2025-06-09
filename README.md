@@ -16,7 +16,7 @@
 ## 📁 Danh mục
 
 - [🔰 Beginner (01–30)](#-beginner-projects)
-- [⚙️ Intermediate (31–70)](#-intermediate-projects)
+- [⚙ Intermediate (31–70)](#-intermediate-projects)
 - [🧠 Advanced (71–100)](#-advanced-projects)
 
 ---
@@ -58,7 +58,7 @@
 
 ---
 
-## ⚙️ Intermediate Projects
+## ⚙ Intermediate Projects
 
 | STT | Dự án | Mô tả |
 |-----|-------|-------|
