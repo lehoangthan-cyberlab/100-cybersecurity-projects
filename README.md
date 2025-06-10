@@ -2,8 +2,7 @@
 
 > Tập hợp 100 bài thực hành an ninh mạng do mình tự làm, nhằm lưu lại kinh nghiệm và phát triển bản thân.
 
----
-## ✅ Lưu ý
+# ✅ Lưu ý
 
 - Dự án này được xây dựng với mục đích **học tập cá nhân**, không đại diện cho tổ chức hay chương trình đào tạo chính thức nào.
 - **Tuyệt đối không áp dụng kỹ thuật** trong các bài thực hành vào hệ thống thật, hoặc hệ thống mà bạn không được phép can thiệp.
@@ -11,9 +10,7 @@
 - Một số kỹ thuật mô phỏng hành vi của mã độc, khai thác lỗ hổng, tấn công mạng… có thể bị coi là **vi phạm pháp luật nếu sử dụng sai cách**.
 - Tôi **không chịu trách nhiệm** cho bất kỳ hành vi nào gây ảnh hưởng đến cá nhân, tổ chức hoặc pháp lý liên quan đến việc sử dụng nội dung này.
 
----
-
-## 📁 Danh mục
+# 📁 Danh mục
 
 - [🔰 Beginner (01–30)](#-beginner-projects)
 - [⚙ Intermediate (31–70)](#-intermediate-projects)
@@ -55,8 +52,6 @@
 | 028 | [Command Injection]() | Khai thác lệnh hệ thống thông qua tham số web |
 | 029 | [Hash Cracking with Hashcat]() | Dò mật khẩu từ hash với Hashcat |
 | 030 | [Beginner CTF Setup]() | Thiết lập và chơi thử một thử thách CTF cơ bản |
-
----
 
 ## ⚙ Intermediate Projects
 
@@ -102,9 +97,6 @@
 | 068 | [DNS Tunneling Lab]() | Thiết lập đường hầm DNS vượt firewall |
 | 069 | [Brute Force Simulation]() | Giả lập tấn công brute-force toàn diện |
 | 070 | [Browser Exploitation with BeEF]() | Sử dụng BeEF khai thác trình duyệt bị nhiễm |
-
----
-
 
 ## 🧠 Advanced Projects
 
