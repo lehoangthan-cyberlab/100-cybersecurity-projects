@@ -22,7 +22,7 @@
 
 | STT | Dự án | Mô tả |
 |-----|-------|-------|
-| 001 | [Port Scanning with Nmap]() | Quét cổng cơ bản trên hệ thống mục tiêu bằng Nmap |
+| 001 | [nmap-study-project](https://github.com/lehoangthan-cyberlab/nmap-study-project) | Quét cổng cơ bản trên hệ thống mục tiêu bằng Nmap |
 | 002 | [Network Packet Analysis]() | Phân tích gói tin mạng bằng Wireshark |
 | 003 | [MAC Address Spoofing]() | Thay đổi địa chỉ MAC để ẩn danh hoặc mô phỏng thiết bị khác |
 | 004 | [Brute Forcing SSH Login]() | Thử brute-force SSH trong môi trường giả lập |
